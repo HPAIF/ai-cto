@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-cto",
+  "description": "Install ai-cto directly from its own repository. For the whole AI Team use the HPAIF/ai-team catalog.",
+  "owner": {
+    "name": "HPAIF",
+    "url": "https://github.com/HPAIF"
+  },
+  "plugins": [
+    {
+      "name": "ai-cto",
+      "description": "AI Team tech lead / fractional CTO for founders: records architecture and stack decisions as ADRs, reviews the architecture and code of your products, keeps a tech-debt register and a technical roadmap, weighs build vs buy, and tells you when to bring in human engineers. Works from a private workspace and improves itself from what it learns. Never pushes, merges or deploys without your explicit approval.",
+      "source": "./",
+      "homepage": "https://github.com/HPAIF/ai-cto"
+    }
+  ]
+}

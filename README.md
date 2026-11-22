@@ -22,6 +22,13 @@ In Claude Code:
 /plugin install ai-cto@ai-team
 ```
 
+Or install only this member, straight from its repository:
+
+```
+/plugin marketplace add HPAIF/ai-cto
+/plugin install ai-cto@ai-cto
+```
+
 Then, in your project (or your company folder), say **"set up the AI CTO"**. The `setup` skill
 creates — or joins — the private `ai-team/` workspace, maps your products to their repositories,
 and offers `.gitignore`, read-only permissions and a monthly briefing. Nothing leaves your machine.

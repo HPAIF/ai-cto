@@ -31,6 +31,6 @@ honest about which is which, and about the full cost.
    `${CLAUDE_PLUGIN_ROOT}/templates/build-vs-buy.md` with a recommendation and confidence, then an
    ADR with `ai-cto:adr` (status `proposed`).
 8. **Never sign up, start a trial, accept terms or buy** — the founder does that after accepting
-   the ADR. Money questions (budget, accounting treatment) → write the exact question, asked directly (RULES: "Ask colleagues directly"), for the
+   the ADR. Money questions (budget, accounting treatment) → write the exact question (as "For @member: …", RULES: "Talk to colleagues only where the founder sees it") for the
    `accountant`.
 9. `ai-cto:log-job`.

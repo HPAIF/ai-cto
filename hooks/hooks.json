@@ -1,0 +1,16 @@
+{
+  "description": "At session start, shows the AI CTO's memory for this project (deadlines, recent jobs, ADRs awaiting a decision, high-priority tech debt, pending learnings) when an ai-team/cto workspace exists. Silent otherwise.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/hooks/session-context.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

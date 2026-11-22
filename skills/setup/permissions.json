@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(date:*)",
+      "Bash(git status:*)",
+      "Bash(git log:*)",
+      "Bash(git diff:*)",
+      "Bash(git show:*)",
+      "Bash(git branch:*)",
+      "Bash(git ls-files:*)",
+      "WebFetch(domain:12factor.net)",
+      "WebFetch(domain:c4model.com)",
+      "WebFetch(domain:adr.github.io)",
+      "WebFetch(domain:martinfowler.com)",
+      "WebFetch(domain:dora.dev)",
+      "WebFetch(domain:sre.google)",
+      "WebFetch(domain:owasp.org)",
+      "WebFetch(domain:endoflife.date)",
+      "WebFetch(domain:google.github.io)",
+      "WebFetch(domain:docs.aws.amazon.com)",
+      "WebFetch(domain:learn.microsoft.com)",
+      "WebFetch(domain:cloud.google.com)"
+    ],
+    "ask": [
+      "Bash(git push:*)",
+      "Bash(git merge:*)",
+      "Bash(git rebase:*)",
+      "Bash(git reset:*)",
+      "Bash(git tag:*)",
+      "Bash(gh pr merge:*)",
+      "Bash(gh release:*)"
+    ]
+  }
+}

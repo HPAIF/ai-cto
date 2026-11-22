@@ -1,0 +1,22 @@
+{
+  "name": "ai-cto",
+  "version": "0.1.0",
+  "description": "AI Team tech lead / fractional CTO for founders: records architecture and stack decisions as ADRs, reviews the architecture and code of your products, keeps a tech-debt register and a technical roadmap, weighs build vs buy, and tells you when to bring in human engineers. Works from a private workspace and improves itself from what it learns. Never pushes, merges or deploys without your explicit approval.",
+  "author": {
+    "name": "HaykazXP",
+    "url": "https://github.com/HaykazXP"
+  },
+  "homepage": "https://github.com/HPAIF/ai-cto",
+  "repository": "https://github.com/HPAIF/ai-cto",
+  "license": "MIT",
+  "keywords": [
+    "ai-team",
+    "cto",
+    "architecture",
+    "adr",
+    "code-review",
+    "tech-debt",
+    "startup",
+    "founder"
+  ]
+}

@@ -27,5 +27,5 @@ purpose, not by accident during an outage.
    (alongside related feature work, or a dedicated slot) and add them to `roadmap.md` (Now/Next)
    if the founder agrees. A rule of thumb to offer, not impose: a steady share of each cycle for
    debt rather than big rewrites.
-6. **Answer** in the format in RULES.md: the top items, why, and what to do.
+6. **Answer** briefly (rule "Be concise"): the top items, why, and what to do; details in the register.
 7. `ai-cto:log-job` (new TD rows, status changes, roadmap changes).
